@@ -1,6 +1,6 @@
 # dpath
 
-Fish and Nushell plugin: **Ctrl+Backspace deletes one path segment at a time** instead of wiping the whole path.
+Fish and Nushell plugin: **Ctrl+Backspace deletes one path segment at a time**.
 
 ```
 cd /home/user/something  →  Ctrl+Backspace  →  cd /home/user/

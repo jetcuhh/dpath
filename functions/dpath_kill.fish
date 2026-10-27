@@ -1,4 +1,4 @@
-function _dpath_kill --description "Backspace one path segment at a time"
+function dpath_kill --description "Backspace one path segment at a time"
     set -l before (commandline -c | string collect)
     set -l full (commandline | string collect)
     set -l pos (commandline -C)
